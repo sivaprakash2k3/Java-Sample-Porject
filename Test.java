@@ -33,10 +33,10 @@ public class Test {
         int x = 590;
         int y = 10;
 
-        add(x, y)
+        add(x, y);
         sub(x, y);
         mul(x, y)
-        div(x, y);
+        div(x, y)
     
     }
 
