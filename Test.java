@@ -34,7 +34,7 @@ public class Test {
         int y = 20;
 
         add(x, y);
-        sub(x, y)
+        sub(x, y);
         mul(x, y);
         div(x, y);
     
